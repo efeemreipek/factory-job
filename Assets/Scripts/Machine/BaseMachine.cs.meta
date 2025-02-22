@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5b6328189f919d4abc19d501b510c16
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - moveData: {fileID: 11400000, guid: 0a11bdda7ff66b4418bbe92cc0444648, type: 2}
+  - itemTargetPoint: {instanceID: 0}
+  - arrowGameObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
